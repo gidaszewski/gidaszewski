@@ -13,7 +13,6 @@ Soy Franco, desarrollador back end con 2 años de experiencia.
 
 <a href="https://www.python.org/" title="Python"><img src="python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="git.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="github.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="javascript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="vscode.png" /></a>
