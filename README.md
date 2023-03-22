@@ -11,7 +11,6 @@ Soy Franco, desarrollador back end con 2 años de experiencia.
 - 👁️ CSS, HTML, JS
 - 💽 MySQL, SQLite
 
-**Currently working with:**
 <a href="https://www.python.org/" title="Python"><img src="python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="github.png" /></a>
