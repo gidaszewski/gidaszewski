@@ -3,7 +3,7 @@
 </h1>
 
 ## Hola! 👋
-Soy Franco, con 2 años de experiencia en Desarrollo Back end.
+Soy Franco, desarrollador back end con 2 años de experiencia.
 
 ## Skills
 - 👨‍💻 Python
@@ -12,7 +12,5 @@ Soy Franco, con 2 años de experiencia en Desarrollo Back end.
 - 💽 MySQL, SQLite
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [@francogidaszewski](https://www.linkedin.com/in/franco-gidaszewski/) en Linkedin
+- [@frangidaszewski_](https://instagram.com/frangidaszewski_) en Instagram
