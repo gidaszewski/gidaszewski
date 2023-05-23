@@ -4,7 +4,7 @@
 
 ## Hola! 👋
 Soy Franco, desarrollador back end +1 año de experiencia.
->>>Data Engineer in process<<<
+-Data Engineer in process
 
 ## Skills
 - 👨‍💻 Python
