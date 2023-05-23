@@ -3,13 +3,14 @@
 </h1>
 
 ## Hola! 👋
-Soy Franco, desarrollador back end con 2 años de experiencia.
+Soy Franco, desarrollador back end +1 año de experiencia.
+>>>Data Engineer in process<<<
 
 ## Skills
 - 👨‍💻 Python
 - ⚙️ Django
 - 👁️ CSS, HTML, JS
-- 💽 MySQL, SQLite
+- 💽 MySQL, Postgres, SQLite
 
 <a href="https://www.python.org/" title="Python"><img src="python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="git.png" /></a>
