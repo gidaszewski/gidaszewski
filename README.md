@@ -1,4 +1,4 @@
-[![github.png](https://i.postimg.cc/hjHWFvs6/FRANCO-GIDASZEWSKI.png)](https://postimg.cc/KkrsBZdD)
+[![github.png](https://i.postimg.cc/DfMmZPp3/FRANCO-GIDASZEWSKI.png)](https://postimg.cc/23nC9hf0)
 
 ### <h1> Skills </h1>
  
