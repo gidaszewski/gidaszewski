@@ -1,22 +1,12 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/gidaszewski/gidaszewski/main/name.svg" alt="Franco Gidaszewski" />
-</h1>
+[![github.png](https://i.postimg.cc/hjHWFvs6/FRANCO-GIDASZEWSKI.png)](https://postimg.cc/KkrsBZdD)
 
-## Hola! 👋
-Soy Franco, desarrollador back end +1 año de experiencia.
+### <h1> Skills </h1>
+ 
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">  <img align="center" alt="SASS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+##
+  <a href = "mailto:gidaszewskifranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franco-gidaszewski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Skills
-- 👨‍💻 Python
-- ⚙️ Django
-- 👁️ CSS, HTML, JS
-- 💽 MySQL, Postgres, SQLite
+![Fer GitHub stats](https://github-readme-stats.vercel.app/api?username=gidaszewski&count_private=true&custom_title=Franco&nbsp;GitHub&nbsp;Stats&bg_color=100,7a7a7a,f7cac9&title_color=fff&text_color=fff)
 
-<a href="https://www.python.org/" title="Python"><img src="python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="git.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="javascript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="mysql.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="vscode.png" /></a>
-
-## Contact
-- [@francogidaszewski](https://www.linkedin.com/in/franco-gidaszewski/) en Linkedin
-- [@frangidaszewski_](https://instagram.com/frangidaszewski_) en Instagram
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gidaszewski&layout=compact&custom_title=Lenguajes&nbsp;m%C3%A1s&nbsp;utilizados%20%E2%8C%A8%EF%B8%8F&bg_color=100,7a7a7a,92a8d1&title_color=fff&text_color=fff)
