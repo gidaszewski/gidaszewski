@@ -1,4 +1,4 @@
-[![git-hub.png](https://i.postimg.cc/pLtGn7qw/git-hub.png)](https://postimg.cc/QH0k26Lm)
+<img align="center" alt="" height="322" width="100%" src="https://i.postimg.cc/pLtGn7qw/git-hub.png">
 
 
 ### <h1> Skills </h1>
