@@ -1,4 +1,4 @@
-<img align="center" alt="" height="322" width="100%" src="https://i.postimg.cc/pLtGn7qw/git-hub.png">
+<img align="center" alt="" height="322" width="100%" src="https://i.postimg.cc/14xKZn8g/back-end-developer.png">
 
 
 ### <h1> Skills </h1>
