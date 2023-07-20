@@ -3,11 +3,11 @@
 
 ### <h2> 👾   Technologies & Languages </h2>
 <header>
- Python <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- Django <img align="center" alt="" height="40" width="70" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
- MySQL<img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- Git <img align="center" alt="" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
- Docker <img align="center" alt="CSS" height="28" width="115" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg">
+ <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="" height="40" width="70" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
+ <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img align="center" alt="" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
+ <img align="center" alt="CSS" height="28" width="115" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg">
 </header>
  
 ### <h2> 👋   About Me </h2>
