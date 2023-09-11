@@ -6,10 +6,8 @@
  
 ### <h2> 👋   About Me </h2>
 
- <h3> Junior Python developer from Argentina. I have 1 year of experience working with the model- template-view architectural pattern of the Django framework.
-  I possess a strong foundation in Python and have utilized various libraries for software development and data engineering, including Tkinter, PyGame, Requests, Pandas, and SQLAlchemy.</h3>
-  
-<h3> I am enthusiastic about expanding my skills and contributing to projects that drive innovation and growth. Seeking opportunities to further develop my expertise and collaborate with a dynamic team. </h3>
+ <h3> Junior Python developer from Argentina willing to relocate to Germany. With more than 1 year of experience as a web developer I have done big projects with important companies in my country.
+I possess a strong foundation in Python and have utilized various libraries for software development and data engineering, including Tkinter, PyGame, Requests and Pandas. I am enthusiastic about expanding my skills and contributing to projects that drive innovation and growth. Seeking opportunities to further develop my expertise and collaborate with a dynamic team.</h3>
 
 ### <h2> 📩   Contact </h2>
   <a href = "mailto:gidaszewskifranco@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
