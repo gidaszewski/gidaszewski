@@ -6,7 +6,7 @@
  
 ### <h2> 👋   About Me </h2>
 
- <p> Junior Python developer from Argentina willing to relocate to Germany. With more than 1 year of experience as a web developer I have done big projects with important companies in my country.
+ <p> Ssr. Python developer from Argentina willing to relocate to Germany. With more than 1 year of experience as a web developer I have done big projects with important companies in my country.
 I possess a strong foundation in Python and have utilized various libraries for software development and data engineering, including Tkinter, PyGame, Requests and Pandas. I am enthusiastic about expanding my skills and contributing to projects that drive innovation and growth. Seeking opportunities to further develop my expertise and collaborate with a dynamic team.</p>
 
 ### <h2> 📩   Contact </h2>
