@@ -6,8 +6,7 @@
  
 ### <h2> 👋   About Me </h2>
 
- <p> Ssr. Python developer from Argentina willing to relocate to Germany. With more than 1 year of experience as a web developer I have done big projects with important companies in my country.
-I possess a strong foundation in Python and have utilized various libraries for software development and data engineering, including Tkinter, PyGame, Requests and Pandas. I am enthusiastic about expanding my skills and contributing to projects that drive innovation and growth. Seeking opportunities to further develop my expertise and collaborate with a dynamic team.</p>
+ <p> Ssr. Python Developer from Argentina. With two years of experience as a web and backend developer. I have done big projects with important companies in my country. I possess a strong foundation in Python and have utilized various libraries for software development and data engineering, including Tkinter, PyGame, Requests and Pandas. I am enthusiastic about expanding my skills and contributing to projects that drive innovation and growth. Seeking opportunities to further develop my expertise and collaborate with a dynamic team.</p>
 
 ### <h2> 📩   Contact </h2>
   <a href = "mailto:gidaszewskifranco@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
