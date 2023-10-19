@@ -6,7 +6,15 @@
  
 ### <h2> 👋   About Me </h2>
 
- <p> Ssr. Python Developer from Argentina. With two years of experience as a web and backend developer. I have done big projects with important companies in my country. I possess a strong foundation in Python and have utilized various libraries for software development and data engineering, including Tkinter, PyGame, Requests and Pandas. I am enthusiastic about expanding my skills and contributing to projects that drive innovation and growth. Seeking opportunities to further develop my expertise and collaborate with a dynamic team.</p>
+ <p> I currently work as a Python developer. 
+
+🐍  I am looking to expand my technology stack and grow within a team. I enjoy pushing myself every day to enhance both my technical and soft skills.
+
+🎓 I am enrolled in a Higher Technical Degree in Programming. My expertise covers various languages and technologies, including Python, SQL, C++, PySpark, Pandas, Docker, Amazon RedShift, SQLAlchemy, and Django, among others.
+
+Additionally, I have a strong foundation in HTML, CSS, and have experience with Adobe Illustrator and Adobe Photoshop.
+
+📌 I am enthusiastic about delving deeper into the realm of software development and learning more about artificial intelligence. My goal is to leverage my academic knowledge and professional experience to make meaningful contributions in this ever-evolving field.</p>
 
 ### <h2> 📩   Contact </h2>
   <a href = "mailto:gidaszewskifranco@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
