@@ -1,4 +1,4 @@
-<img align="center" alt="" height="100%" width="100%" src="https://i.postimg.cc/8z2ZB9gd/Franco-Gidaszewski.png">
+<img align="center" alt="" height="100%" width="100%" src="https://i.postimg.cc/8sgSyQLf/Franco-Gidaszewski.png">
 
 
 ### <h2>Technologies & Languages</h2>
