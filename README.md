@@ -163,14 +163,3 @@ Dart                     3 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details> 
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-------
-Credits: [manumanoj0010](https://github.com/manumanoj0010)
-
-Last Edited on: 15/01/2021
