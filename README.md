@@ -16,7 +16,7 @@ I am a student of Tecnicatura Superior in Programming 🎓 from Instituto Superi
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
- <a href="https://www.python.org" target="_blank"> <img src="python.png" alt="python" width="30" height="30"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="30" height="30"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="30" height="30"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="mysql.png" alt="mysql" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="30" height="30"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30" height="30"/> </a> 
+ <a href="https://www.python.org" target="_blank"> <img src="python.png" alt="python" width="30" height="30"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="30" height="30"/></a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="30" height="30"/></a><a href="https://www.mysql.com/" target="_blank"> <img src="mysql.png" alt="mysql" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="50" height="30"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30" height="30"/></a> 
 
 <details>	
   <summary><b>Programming Languages</b></summary>
@@ -35,12 +35,12 @@ I am a student of Tecnicatura Superior in Programming 🎓 from Instituto Superi
 
 <details>	
   <summary><b>Frameworks</b></summary>
-   <a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="30" height="30"/> </a> 
+   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="50" height="30"/> </a> 
 </details>
 
 <details>	
   <summary><b>Others</b></summary>
-  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" alt="linux" width="30" height="30"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" alt="linux" width="30" height="30"/> </a>
 </details>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
