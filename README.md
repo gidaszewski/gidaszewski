@@ -47,18 +47,18 @@ I am a student of Tecnicatura Superior in Programming 🎓 from Instituto Superi
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api?username=manumanoj0010&show_icons=true&locale=en&hide_border=true" alt="manumanoj0010" />
-<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api/top-langs?username=manumanoj0010&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
+<img height="180em" src="https://github-readme-stats.gidaszewski.vercel.app/api?username=gidaszewski&show_icons=true&locale=en&hide_border=true" alt="gidaszewski" />
+<img height="180em" src="https://github-readme-stats.gidaszewski.vercel.app/api/top-langs?username=gidaszewski&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="gidaszewski"/>
 </details>
 
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manumanoj0010&" alt="manumanoj0010" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gidaszewski&" alt="gidaszewski" /></p>
 </details>
 
 <details>
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manumanoj0010&margin-w=5" alt="manumanoj0010" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gidaszewski&margin-w=5" alt="gidaszewski" /></a> </p>
 </details>
 
 <details>
