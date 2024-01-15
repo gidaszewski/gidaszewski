@@ -78,10 +78,5 @@ I am a student of Tecnicatura Superior in Programming 🎓 from Instituto Superi
  > 
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 </details> 
