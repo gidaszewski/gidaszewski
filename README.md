@@ -1,9 +1,9 @@
-## Hey 👋, I'm [Franco Gidaszewski!]
+## Hey 👋, I'm Franco Gidaszewski!
 
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/franco-gidaszewski/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gidaszewskifranco0@gmail.com)](mailto:gidaszewskifranco0@gmail.com)
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/gidaszewski) ![GitHub User's stars](https://img.shields.io/github/stars/gidaszewski)
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="" /> ![GitHub followers](https://img.shields.io/github/followers/gidaszewski) ![GitHub User's stars](https://img.shields.io/github/stars/gidaszewski)
 
 I am a student of Tecnicatura Superior in Programming 🎓 from Instituto Superior TecLab 🏛. I am a passionate learner who is always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real life problems ✨. I am currently into Web Development 🕸️ and Machine Learning 👀.
 
