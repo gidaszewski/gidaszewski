@@ -12,7 +12,7 @@ I am a student of Tecnicatura Superior in Programming 🎓 from Instituto Superi
 - 👨💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in web development 🕸️
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-- 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1B1Wlz7k-Da7ekbs33ssS2oVEgmrGygdS/view?usp=sharing).
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
