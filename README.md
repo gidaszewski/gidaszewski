@@ -5,7 +5,9 @@
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=gidaszewski" alt="" /> ![GitHub followers](https://img.shields.io/github/followers/gidaszewski) ![GitHub User's stars](https://img.shields.io/github/stars/gidaszewski)
 
-I am a student of Programming Technician 🎓 from Instituto Superior TecLab 🏛. I am a passionate learner who is always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real life problems ✨. I am currently into Web Development 🕸️ and Machine Learning 👀.
+🎓 Specialist in Python, SQL, ORM, Linux, Docker, Amazon S3, Git & GitHub, Django & Django Rest.
+
+🐍 I am an organized, proactive and detail-oriented person with the ability to lead projects and collaborate effectively with other departments. My analytical approach, combined with excellent communication skills in Spanish and English, has allowed me to meet and exceed objectives in various projects.
 
 ### More about me:
 
