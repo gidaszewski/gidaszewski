@@ -11,7 +11,7 @@ I am an organized, proactive, and detail-oriented person with the ability to lea
 - I love exploring new tech stack and building cool stuffs. 
 
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+### Github Info
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
