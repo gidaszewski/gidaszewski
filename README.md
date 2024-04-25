@@ -1,4 +1,4 @@
-## Hey 👋, I'm Franco Gidaszewski!
+## Hey 👋
 
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/franco-gidaszewski/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gidaszewskifranco0@gmail.com)](mailto:gidaszewskifranco0@gmail.com)
