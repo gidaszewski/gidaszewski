@@ -5,16 +5,15 @@
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=gidaszewski" alt="" /> ![GitHub followers](https://img.shields.io/github/followers/gidaszewski) ![GitHub User's stars](https://img.shields.io/github/stars/gidaszewski)
 
-🎓 Specialist in Python, SQL, ORM, Linux, Docker, Amazon S3, Git & GitHub, Django & Django Rest.
+As a Software Developer at my current company, I develop comprehensive solutions using Python, JavaScript, Django, HTML, CSS, and manage VPS servers with Nginx on Linux environments. I also implement PostgreSQL databases to optimize data management and performance. I have led the technical implementation of several automations, ensuring efficiency and compliance with functional and non-functional requirements.
 
-🐍 I am an organized, proactive and detail-oriented person with the ability to lead projects and collaborate effectively with other departments. My analytical approach, combined with excellent communication skills in Spanish and English, has allowed me to meet and exceed objectives in various projects.
+I collaborate closely with the operations team for strategy development and deployment, providing support and making necessary modifications. I am an organized, proactive, and detail-oriented person with the ability to lead projects and work effectively with other departments. My analytical approach, combined with excellent communication skills in Spanish and English, has allowed me to meet and exceed objectives in various projects. I am passionate about learning new technologies and improving my skills as a web developer and data analyst.
 
 ### More about me:
 
-- 👨💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in web development 🕸️
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1B1Wlz7k-Da7ekbs33ssS2oVEgmrGygdS/view?usp=sharing).
+- Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- Open for collaborations in web development 🕸️
+- I love exploring new tech stack and building cool stuffs
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
