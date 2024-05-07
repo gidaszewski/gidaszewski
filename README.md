@@ -1,6 +1,6 @@
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=gidaszewski" alt="" /> ![GitHub followers](https://img.shields.io/github/followers/gidaszewski) ![GitHub User's stars](https://img.shields.io/github/stars/gidaszewski)
 
-As a Co-founder and Software Developer at my current company, I develop comprehensive solutions using Python, Django, JavaScript, Docker, SQL and manage VPS servers with Nginx on Linux environments. I plan, develop and manage a software consulting startup based in Argentina. Right now we work for one of the most important technological universities in the country.
+As a Co-founder and Backend Developer at my current company, I develop comprehensive solutions using Python, Django, JavaScript, Docker, SQL and manage VPS servers with Nginx on Linux environments. I plan, develop and manage a software consulting startup based in Argentina. Right now we work for one of the most important technological universities in the country.
 
 I am an organized, proactive, and detail-oriented person with the ability to lead projects and work effectively with other departments. My analytical approach, combined with excellent communication skills in English, has allowed me to meet and exceed objectives in various projects. I am passionate about learning new technologies and improving my skills as a web developer and data analyst.
 
