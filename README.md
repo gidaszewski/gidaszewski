@@ -36,13 +36,9 @@ I am an organized, proactive, and detail-oriented person with the ability to lea
 
 **🐱 My Github Data** 
 
-> 🏆 143 Contributions in the Year 2021
+> 🏆 149 Contributions in the Year 2024
  > 
-> 📦 57.6 mB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 12 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 
 
