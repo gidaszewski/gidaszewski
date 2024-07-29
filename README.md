@@ -2,8 +2,6 @@
 
 As a seasoned backend developer with experience in web development, I excel in crafting bespoke solutions that empower clients to optimize productivity and streamline operations. Specializing in Python, I am driven by a passion for leveraging cutting-edge technology to deliver tailored software solutions that address the unique needs of businesses.
 
-I am an organized, proactive, and detail-oriented person with the ability to lead projects and work effectively with other departments. My analytical approach, combined with excellent communication skills in English, has allowed me to meet and exceed objectives in various projects. I am passionate about learning new technologies and improving my skills as a web developer and data analyst.
-
 ### More about me:
 
 - Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
